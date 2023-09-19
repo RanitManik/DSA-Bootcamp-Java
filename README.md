@@ -32,8 +32,6 @@ Welcome to DSA with Ranit, where we delve into the world of Data Structures and 
 - [x] Tries
 - [x] Advanced Concepts
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Resources
 
 * [Java Programming Tutorial](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=vqJ3knXgQfLjig82)
@@ -46,7 +44,6 @@ Welcome to DSA with Ranit, where we delve into the world of Data Structures and 
 - provide practical insights and best practices for efficient Java programming,
 - tackle real-world problems through coding exercises and projects.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Getting Started
 
@@ -76,13 +73,11 @@ _To start your journey in DSA with Ranit, follow these steps:_
    git push --set-upstream origin DEV/{your_name}/{in which you're working on}
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
@@ -94,7 +89,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 - Project Link - [https://github.com/RanitManik/DSAwithRanit.git](https://github.com/RanitManik/DSAwithRanit.git)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Acknowledgments
 
@@ -109,4 +103,4 @@ Special thanks to:
 
 Thank you for embarking on this journey in DSA with Ranit. Together, we can master Data Structures and Algorithms using Java!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
