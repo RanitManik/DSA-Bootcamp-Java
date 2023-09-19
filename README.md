@@ -88,9 +88,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 # Contact
 
-- Name - [Kunal Sharma](https://github.com/RanitManik)
+- Name - [Ranit Manik(https://github.com/RanitManik)
 
-- Email - kunalsharma@example.com
+- Email - ranitmanikofficial@outlook.com
 
 - Project Link - [https://github.com/RanitManik/DSAwithKunal.git](https://github.com/RanitManik/DSAwithKunal.git)
 
