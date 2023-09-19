@@ -1,4 +1,0 @@
-use for loop when you know how many times the loop is going to be executed
-/termination statement is known like : print 1 to n numbers
-use the while loop when you don't know  how many times the loop is going to be executed
-like: keep taking inputs until user type x
