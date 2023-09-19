@@ -60,7 +60,5 @@ fabric.properties
 
 ### Intellij Patch ###
 
-## user inputs ##
-*.csv
-*merged.pdf
-*Resized image.png
+## JAVA class ##
+*.class
