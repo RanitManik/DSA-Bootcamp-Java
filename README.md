@@ -12,25 +12,25 @@ Welcome to DSA with Ranit, where we delve into the world of Data Structures and 
 - [x] Introduction to Java
 - [x] Functions
 - [x] Arrays
-- [x] Searching
-- [x] Sorting
-- [x] Pattern questions
-- [x] Strings
-- [x] Maths for DSA
-- [x] Recursion
-- [x] Space and Time Complexity Analysis
-- [x] Object Oriented Programming
-- [x] Linked List
-- [x] Stacks & Queues
-- [x] Trees
-- [x] Heaps
-- [x] HashMap
-- [x] Subarray Questions
-- [x] Graphs
-- [x] Dynamic Programming
-- [x] Greedy Algorithms
-- [x] Tries
-- [x] Advanced Concepts
+-     Searching
+-     Sorting
+-     Pattern questions
+-     Strings
+-     Maths for DSA
+-     Recursion
+-     Space and Time Complexity Analysis
+-     Object Oriented Programming
+-     Linked List
+-     Stacks & Queues
+-     Trees
+-     Heaps
+-     HashMap
+-     Subarray Questions
+-     Graphs
+-     Dynamic Programming
+-     Greedy Algorithms
+-     Tries
+-     Advanced Concepts
 
 ## Resources
 
