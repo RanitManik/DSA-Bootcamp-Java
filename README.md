@@ -88,7 +88,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 # Contact
 
-- Name - [Ranit Manik(https://github.com/RanitManik)
+- Name - [Ranit Manik](https://github.com/RanitManik)
 
 - Email - ranitmanikofficial@outlook.com
 
