@@ -2,7 +2,7 @@
 
 # About The Project
 
-Welcome to DSA with Kunal, where we delve into the world of Data Structures and Algorithms using Java! This repository is a comprehensive collection of Java code implementations, projects, and assignments covering a wide range of DSA topics.
+Welcome to DSA with Ranit, where we delve into the world of Data Structures and Algorithms using Java! This repository is a comprehensive collection of Java code implementations, projects, and assignments covering a wide range of DSA topics.
 
 ## Topics
 
@@ -50,18 +50,18 @@ Welcome to DSA with Kunal, where we delve into the world of Data Structures and 
 
 # Getting Started
 
-_To start your journey in DSA with Kunal, follow these steps:_
+_To start your journey in DSA with Ranit, follow these steps:_
 
  - **Clone** the repository:
 
    ```bash
-   git clone https://github.com/RanitManik/DSAwithKunal.git
+   git clone https://github.com/RanitManik/DSAwithRanit.git
    ```
 
 - **Add This repo as Remote**:
 
    ```bash
-   git remote add origin https://github.com/RanitManik/DSAwithKunal.git
+   git remote add origin https://github.com/RanitManik/DSAwithRanit.git
    ```
 
 - **Create and Switch to Your Branch**:
@@ -92,7 +92,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 - Email - ranitmanikofficial@outlook.com
 
-- Project Link - [https://github.com/RanitManik/DSAwithKunal.git](https://github.com/RanitManik/DSAwithKunal.git)
+- Project Link - [https://github.com/RanitManik/DSAwithRanit.git](https://github.com/RanitManik/DSAwithRanit.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,6 +107,6 @@ Special thanks to:
 - Open-source Java projects and repositories that inspired and educated me in various aspects of Java development.
 - My peers and fellow programmers who offered support, feedback, and motivation throughout my DSA coding journey.
 
-Thank you for embarking on this journey in DSA with Kunal. Together, we can master Data Structures and Algorithms using Java!
+Thank you for embarking on this journey in DSA with Ranit. Together, we can master Data Structures and Algorithms using Java!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
