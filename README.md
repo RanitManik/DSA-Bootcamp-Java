@@ -1,10 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-  <img src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/java_logo_icon_168609.png" alt="Product Name Screen Shot" style="width: 50%; max-width: 50vw;">
-</div>
-
-
 # About The Project
 
 Welcome to DSA with Kunal, where we delve into the world of Data Structures and Algorithms using Java! This repository is a comprehensive collection of Java code implementations, projects, and assignments covering a wide range of DSA topics.
