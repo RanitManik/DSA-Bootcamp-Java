@@ -1,4 +1,4 @@
-package L9_Conditonals_Loops;
+package L09_Conditonals_Loops;
 
 import java.util.Scanner;
 

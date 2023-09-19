@@ -1,4 +1,4 @@
-package L8_First_JAVA_program;
+package L08_First_JAVA_program;
 
 import java.util.Scanner;
 
