@@ -46,3 +46,5 @@ The numbers are: 10 and 20
 **Note**: In modern Java, using `System.out.println` is more common than `System.out.print`. The `println` method
 automatically appends a newline character after the output. If you want to achieve the same result with a newline
 using `System.out.print`, you would need to add `System.out.print("\n")` after your statement.
+
+---
