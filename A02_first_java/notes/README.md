@@ -1,4 +1,4 @@
-## Table of Contents
+### Table of Contents
 
 1. [Understanding Character Input with Scanner in Java](#understanding-character-input-with-scanner-in-java)
 2. [Comma and Plus in Print Statement](#comma-and-plus-in-print-statement)
