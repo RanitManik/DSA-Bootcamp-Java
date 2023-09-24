@@ -1,4 +1,4 @@
-### Table of Contents
+# Table of Contents
 
 1. [Understanding Character Input with Scanner in Java](#understanding-character-input-with-scanner-in-java)
 2. [Comma and Plus in Print Statement](#comma-and-plus-in-print-statement)
@@ -23,9 +23,11 @@ char op = in.next().trim().charAt(0);
 
 So, at the end of this code snippet, the variable `op` will contain the first character that the user entered, and you can use it for further processing in your Java program.
 
----
+
 
 This code allows you to read a single character as input from the user and store it in the variable `op` for use in your program, as demonstrated in the `calculator.java` file.
+
+---
 
 # Comma and Plus in Print Statement
 
