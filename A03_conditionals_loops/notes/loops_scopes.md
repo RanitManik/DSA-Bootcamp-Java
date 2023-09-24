@@ -1,6 +1,5 @@
 # Loops in Java: for, while, do-while
 
----
 
 ## For Loop
 

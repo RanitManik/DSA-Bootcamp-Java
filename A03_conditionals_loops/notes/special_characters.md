@@ -1,6 +1,5 @@
 # Special Characters in Java
 
----
 Java allows the following special characters:
 
 - `!` - Logical NOT operator
@@ -20,5 +19,3 @@ Java allows the following special characters:
 - `?` - Ternary conditional operator
 - `||` - Logical OR operator
 - `|` - Bitwise OR operator
-
----

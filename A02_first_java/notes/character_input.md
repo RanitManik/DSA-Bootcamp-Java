@@ -1,7 +1,5 @@
 # Understanding Character Input with Scanner in Java
 
----
-
 In the given Java code snippet:
 
 ```java
