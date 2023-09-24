@@ -7,8 +7,8 @@ public class N_th_fibonacci_no {
         System.out.print("Enter the value of n: ");
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
-        int a = 0;
-        int b = 1;
+        int a = 0; // first
+        int b = 1; // next
         int count = 1;
         while (count <= n) {
             int temp = b;
