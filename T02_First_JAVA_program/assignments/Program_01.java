@@ -1,6 +1,6 @@
 // Q1. Write a program to print whether a number is even or odd, also take input from the user.
 
-package T02.First_JAVA_program.assignments;
+package T02_First_JAVA_program.assignments;
 
 import java.util.Scanner;
 

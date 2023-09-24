@@ -1,4 +1,4 @@
-package T03.Conditonals_Loops.src;
+package T03_Conditonals_Loops.src;
 
 public class Line_by_line_execution {
     public static void main(String[] args) {

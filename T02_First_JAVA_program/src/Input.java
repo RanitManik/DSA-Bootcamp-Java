@@ -1,4 +1,4 @@
-package T02.First_JAVA_program.src;
+package T02_First_JAVA_program.src;
 
 import java.util.Scanner;
 
