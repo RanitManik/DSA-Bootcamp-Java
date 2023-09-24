@@ -1,4 +1,4 @@
-// Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)
+// Q4. Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)
 
 package A02_first_java.assignments;
 
