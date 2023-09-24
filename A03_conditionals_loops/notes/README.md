@@ -1,4 +1,4 @@
-## Table of Contents
+# Table of Contents
 
 1. [Scoping of loops in Java](#Scoping-of-loops-in-Java)
 2. [Special Characters in Java](#Special-Characters-in-Java)
