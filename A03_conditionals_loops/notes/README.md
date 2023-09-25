@@ -10,3 +10,5 @@
   Java includes special characters for operations like logical NOT (`!`), not equal to (`!=`), modulus (`%`), logical AND (`&&`), bitwise AND (`&`), multiplication (`*`), grouping (`()`), code blocks (`{}`), arrays (`[]`), loop labels (`:`), statement termination (`;`), assignment (`=`), equal to (`==`), comparison (`>`, `<`), ternary conditional (`?`), logical OR (`||`), and bitwise OR (`|`).
 
 ---
+
+- **understanding TypeCasting**
