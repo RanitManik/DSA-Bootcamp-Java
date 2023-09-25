@@ -2,7 +2,7 @@
 
     ```java
     Scanner in=new Scanner(System.in);
-            char op=in.next().trim().charAt(0);
+    char op=in.next().trim().charAt(0);
     ```
 
   This is how you take a character input in java
