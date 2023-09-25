@@ -1,4 +1,4 @@
-# [Video Link](https://youtu.be/vvanI8NRlSI)
+# Write Java programs for the following:
 
 1. [Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.](https://www.java67.com/2019/05/how-to-find-largest-and-smallest-of-three-numbers-in-java.html)
 
@@ -46,3 +46,5 @@ Also,
 13. [Write a function that returns all prime numbers between two given numbers.](https://www.geeksforgeeks.org/program-to-find-prime-numbers-between-given-interval/)
 
 14. [Write a function that returns the sum of first n natural numbers.](https://www.geeksforgeeks.org/program-find-sum-first-n-natural-numbers/)
+
+---
