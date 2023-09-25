@@ -15,12 +15,12 @@
 ---
 
 ```java
-  Scanner in=new Scanner(System.in);
-        System.out.print("Enter the radius of the circle: ");
-        int radius=in.nextInt();
+Scanner in=new Scanner(System.in);
+System.out.print("Enter the radius of the circle: ");
+int radius=in.nextInt();
 
-        float area=(((float)22/7)*radius*radius);
-        System.out.println("The Area of the circle is = "+area);
+float area=(((float)22/7)*radius*radius);
+System.out.println("The Area of the circle is = "+area);
 ```
 
 - **Understanding this TypeCasting**
@@ -33,7 +33,7 @@
 
 ```java
 float area=((float)(1/2)*(b*h));
-        System.out.println("The area of the triangle: is "+area);
+System.out.println("The area of the triangle: is "+area);
 ```
 
 - **Debugging this TypeCasting**
