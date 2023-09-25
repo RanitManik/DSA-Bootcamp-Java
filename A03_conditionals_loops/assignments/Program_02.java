@@ -12,7 +12,16 @@ public class Program_02 {
         System.out.print("Enter the height of the triangle: ");
         int h = in.nextInt();
 
-        float area = ((float) (1.0 / 2) * (b * h));
-        System.out.println("The area of the triangle: is " + area);
+        // Method 1 ==>
+        float area_m1 = (float) (0.5 * b * h);
+        System.out.println("The area of the triangle is: " + area_m1);
+
+        // Method 2 ==>
+        float area_m2 = (((float) 1 / 2) * b * h);
+        System.out.println("The area of the triangle is: " + area_m2);
+
+        // Method 3 ==>
+        double area_m3 = ((1.0 / 2) * (b * h));
+        System.out.println("The area of the triangle is: " + area_m3);
     }
 }

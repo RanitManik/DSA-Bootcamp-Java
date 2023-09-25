@@ -14,7 +14,6 @@
 
 ---
 
-
 ```java
   Scanner in=new Scanner(System.in);
         System.out.print("Enter the radius of the circle: ");
@@ -30,7 +29,12 @@
   which is crucial for accurate calculation of the area of the circle. Without this type casting, the division would be
   performed as integer division, potentially leading to inaccurate results.
 
+---
 
+```java
+float area=((float)(1/2)*(b*h));
+        System.out.println("The area of the triangle: is "+area);
+```
 
 - **Debugging this TypeCasting**
 
@@ -42,5 +46,9 @@
 ```java
 float area=((float)(1.0/2)*(b*h));
 ```
+
+> floating-point literals are interpreted as `double` by default. so we are using explicit type casting to ensure that
+> the
+> result of the calculation is a `float` type.
 
 ---
