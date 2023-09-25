@@ -12,6 +12,7 @@
   labels (`:`), statement termination (`;`), assignment (`=`), equal to (`==`), comparison (`>`, `<`), ternary
   conditional (`?`), logical OR (`||`), and bitwise OR (`|`).
 
+---
 
 
 ```java
@@ -22,7 +23,6 @@
         float area=(((float)22/7)*radius*radius);
         System.out.println("The Area of the circle is = "+area);
 ```
----
 
 - **Understanding this TypeCasting**
 
