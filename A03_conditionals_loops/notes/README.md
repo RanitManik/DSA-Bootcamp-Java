@@ -12,7 +12,7 @@
   labels (`:`), statement termination (`;`), assignment (`=`), equal to (`==`), comparison (`>`, `<`), ternary
   conditional (`?`), logical OR (`||`), and bitwise OR (`|`).
 
----
+
 
 ```java
   Scanner in=new Scanner(System.in);
@@ -30,7 +30,7 @@
   which is crucial for accurate calculation of the area of the circle. Without this type casting, the division would be
   performed as integer division, potentially leading to inaccurate results.
 
----
+
 
 - **Debugging this TypeCasting**
 
@@ -42,3 +42,5 @@
 ```java
 float area=((float)(1.0/2)*(b*h));
 ```
+
+---
