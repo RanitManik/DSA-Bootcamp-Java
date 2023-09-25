@@ -14,7 +14,6 @@
 
 ---
 
-- **understanding TypeCasting**
 
 ```java
   Scanner in = new Scanner(System.in);
@@ -25,6 +24,16 @@
         System.out.println("The Area of the circle is = " + area);
 ```
 
+- **Understanding this TypeCasting**
+
   the type casting `(float)` is used to ensure that the division operation yields a floating-point result,
   which is crucial for accurate calculation of the area of the circle. Without this type casting, the division would be
   performed as integer division, potentially leading to inaccurate results.
+
+- **Debugging this TypeCasting**
+
+  To fix this, you should make sure that at least one of the operands in `(1 / 2)` is a float. You can do this by using `1.0` instead of `1`:
+
+```java
+float area = ((float) (1.0 / 2) * (b * h));
+```
