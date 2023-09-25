@@ -14,15 +14,15 @@
 
 ---
 
-
 ```java
-  Scanner in = new Scanner(System.in);
-  System.out.print("Enter the radius of the circle: ");
-  int radius = in.nextInt();
+  Scanner in=new Scanner(System.in);
+        System.out.print("Enter the radius of the circle: ");
+        int radius=in.nextInt();
 
-        float area = (((float) 22 / 7) * radius * radius);
-        System.out.println("The Area of the circle is = " + area);
+        float area=(((float)22/7)*radius*radius);
+        System.out.println("The Area of the circle is = "+area);
 ```
+---
 
 - **Understanding this TypeCasting**
 
@@ -30,10 +30,15 @@
   which is crucial for accurate calculation of the area of the circle. Without this type casting, the division would be
   performed as integer division, potentially leading to inaccurate results.
 
+---
+
 - **Debugging this TypeCasting**
 
-  To fix this, you should make sure that at least one of the operands in `(1 / 2)` is a float. You can do this by using `1.0` instead of `1`:
+  The expression `(1 / 2)` is evaluated first, which results in `0` because both `1` and `2` are integers. Then,
+  this `0` is converted to a float, which remains `0`. This means your area calculation always results in `0`.
+  To fix this, you should make sure that at least one of the operands in `(1 / 2)` is a float. You can do this by
+  using `1.0` instead of `1`:
 
 ```java
-float area = ((float) (1.0 / 2) * (b * h));
+float area=((float)(1.0/2)*(b*h));
 ```
