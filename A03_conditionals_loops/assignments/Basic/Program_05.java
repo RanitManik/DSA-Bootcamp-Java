@@ -1,6 +1,6 @@
 // Q5. Area Of Parallelogram
 
-package A03_conditionals_loops.assignments;
+package A03_conditionals_loops.assignments.Basic;
 
 import java.util.Scanner;
 

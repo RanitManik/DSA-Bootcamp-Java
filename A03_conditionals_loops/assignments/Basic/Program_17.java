@@ -1,6 +1,6 @@
 // Q17. Volume Of Sphere
 
-package A03_conditionals_loops.assignments;
+package A03_conditionals_loops.assignments.Basic;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 // Q6. Area Of Rhombus
 
-package A03_conditionals_loops.assignments;
+package A03_conditionals_loops.assignments.Basic;
 
 import java.util.Scanner;
 

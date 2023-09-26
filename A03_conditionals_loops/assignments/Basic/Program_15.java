@@ -1,6 +1,6 @@
 // Q15. Volume Of Prism
 
-package A03_conditionals_loops.assignments;
+package A03_conditionals_loops.assignments.Basic;
 
 import java.util.Scanner;
 

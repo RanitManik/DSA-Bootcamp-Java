@@ -1,10 +1,10 @@
-// Q11. Perimeter Of Rectangle
+// Q10. Perimeter Of Parallelogram
 
-package A03_conditionals_loops.assignments;
+package A03_conditionals_loops.assignments.Basic;
 
 import java.util.Scanner;
 
-public class Program_11 {
+public class Program_10 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the lengths of adjacent sides ==>");
@@ -13,6 +13,6 @@ public class Program_11 {
         System.out.print("Enter the lengths of second sides: ");
         int l2 = in.nextInt();
         int p = 2 * (l1 + l2);
-        System.out.println("The perimeter of the Rectangle is: " + p);
+        System.out.println("The perimeter of the Parallelogram is: " + p);
     }
 }

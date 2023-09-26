@@ -1,6 +1,6 @@
 // Q9. Perimeter Of Equilateral Triangle
 
-package A03_conditionals_loops.assignments;
+package A03_conditionals_loops.assignments.Basic;
 
 import java.util.Scanner;
 
