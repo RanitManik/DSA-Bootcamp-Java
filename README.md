@@ -101,9 +101,9 @@ _To start your journey in DSA with Ranit, follow these steps:_
 
 ## Acknowledgments
 
-I extend my gratitude to the DSA community and the wealth of resources that have contributed to my proficiency in Data Structures and Algorithms.
+I extend my gratitude to the DSA community and the wealth of resources that have contributed to my proficiency in Data Structures and Algorithms.</br>
 </br>Thank you for embarking on this journey in DSA with Ranit. Together, we can master Data Structures and Algorithms using Java!
 
 ---
-> Feel free to clone this repository and use it as a template for your own "DSAwithRanit" journey. Happy coding! 💻🧑‍💻
+>Feel free to clone this repository and use it as a template for your own "DSAwithRanit" journey. Happy coding! 💻🧑‍💻
 
