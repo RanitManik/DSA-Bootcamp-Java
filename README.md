@@ -2,6 +2,8 @@
 
 # About The Project
 
+![WhatsApp-Image-2022-09-04-at-11 31 19-PM](https://github.com/RanitManik/DSAwithRanit/assets/138437760/729510b5-16c7-446d-9aa3-33402e385303)
+
 Welcome to DSA with Ranit, where we delve into the world of Data Structures and Algorithms using Java! This repository is a comprehensive collection of Java code implementations, projects, and assignments covering a wide range of DSA topics.
 
 ## Topics
