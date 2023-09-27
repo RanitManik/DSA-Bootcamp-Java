@@ -1,10 +1,16 @@
 <a name="readme-top"></a>
 
-# About The Project
+
 
 ![WhatsApp-Image-2022-09-04-at-11 31 19-PM](https://github.com/RanitManik/DSAwithRanit/assets/138437760/729510b5-16c7-446d-9aa3-33402e385303)
 
+---
+
+## About The Project
+
 Welcome to DSA with Ranit, where we delve into the world of Data Structures and Algorithms using Java! This repository is a comprehensive collection of Java code implementations, projects, and assignments covering a wide range of DSA topics.
+
+---
 
 ## Topics
 
@@ -34,20 +40,25 @@ Welcome to DSA with Ranit, where we delve into the world of Data Structures and 
 - Tries
 - Advanced Concepts
 
+---
+
 ## Resources
 
 * [Java Programming Tutorial](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=vqJ3knXgQfLjig82)
 * [Eclipse IDE](https://www.eclipse.org/downloads/)
 * [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/)
 
-### My mission is to
+---
+
+## My mission is to
 
 - equip myself with a solid foundation in Data Structures and Algorithms using Java,
 - provide practical insights and best practices for efficient Java programming,
 - tackle real-world problems through coding exercises and projects.
 
+---
 
-# Getting Started
+## Getting Started
 
 _To start your journey in DSA with Ranit, follow these steps:_
 
@@ -75,15 +86,11 @@ _To start your journey in DSA with Ranit, follow these steps:_
    git push --set-upstream origin DEV/{your_name}/{in which you're working on}
    ```
 
-
-# License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-
 <!-- CONTACT -->
 
-# Contact
+---
+
+## Contact
 
 - Name - [Ranit Manik](https://github.com/RanitManik)
 
@@ -91,8 +98,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 - Project Link - [https://github.com/RanitManik/DSAwithRanit.git](https://github.com/RanitManik/DSAwithRanit.git)
 
+---
 
-# Acknowledgments
+## Acknowledgments
 
 I extend my gratitude to the DSA community and the wealth of resources that have contributed to my proficiency in Data Structures and Algorithms.
 
