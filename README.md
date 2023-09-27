@@ -42,7 +42,7 @@ Welcome to DSA with Ranit, where we delve into the world of Data Structures and 
 
 ### My mission is to
 
-- equip you with a solid foundation in Data Structures and Algorithms using Java,
+- equip myself with a solid foundation in Data Structures and Algorithms using Java,
 - provide practical insights and best practices for efficient Java programming,
 - tackle real-world problems through coding exercises and projects.
 
