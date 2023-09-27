@@ -41,23 +41,6 @@ Welcome to DSA with Ranit, where we delve into the world of Data Structures and 
 - Advanced Concepts
 
 ---
-
-## Resources
-
-* [Java Programming Tutorial](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=vqJ3knXgQfLjig82)
-* [Eclipse IDE](https://www.eclipse.org/downloads/)
-* [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/)
-
----
-
-## My mission is to
-
-- equip myself with a solid foundation in Data Structures and Algorithms using Java,
-- provide practical insights and best practices for efficient Java programming,
-- tackle real-world problems through coding exercises and projects.
-
----
-
 ## Getting Started
 
 _To start your journey in DSA with Ranit, follow these steps:_
@@ -87,6 +70,22 @@ _To start your journey in DSA with Ranit, follow these steps:_
    ```
 
 <!-- CONTACT -->
+
+---
+
+## Resources
+
+* [Java Programming Tutorial](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=vqJ3knXgQfLjig82)
+* [Eclipse IDE](https://www.eclipse.org/downloads/)
+* [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/)
+
+---
+
+## My mission is to
+
+- equip myself with a solid foundation in Data Structures and Algorithms using Java,
+- provide practical insights and best practices for efficient Java programming,
+- tackle real-world problems through coding exercises and projects.
 
 ---
 
