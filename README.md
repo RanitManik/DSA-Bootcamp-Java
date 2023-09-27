@@ -84,7 +84,7 @@ _To start your journey in DSA with Ranit, follow these steps:_
 ## My mission is to
 
 - equip myself with a solid foundation in Data Structures and Algorithms using Java,
-- provide practical insights and best practices for efficient Java programming,
+- experience practical insights and best practices for efficient Java programming,
 - tackle real-world problems through coding exercises and projects.
 
 ---
