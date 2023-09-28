@@ -7,7 +7,7 @@
 
 ## About The Repository
 
-Welcome to DSA-Bootcamp-Java, where we delve into the world of Data Structures and Algorithms using Java! This repository is a comprehensive collection of Java code implementations, projects, and assignments covering a wide range of DSA topics completed during the [DSA-Bootcamp-Java cource](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=gh8cviNOehm7eT8R) by Kunal Kushwaha.
+Welcome to DSA-Bootcamp-Java, where we delve into the world of Data Structures and Algorithms using Java! This repository is a comprehensive collection of Java code implementations, projects, and assignments covering a wide range of DSA topics completed during the [DSA-Bootcamp-Java](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=gh8cviNOehm7eT8R) Bootcamp by Kunal Kushwaha.
 
 ---
 
