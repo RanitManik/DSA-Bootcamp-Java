@@ -1,14 +1,13 @@
+
 <a name="readme-top"></a>
-
-
 
 ![WhatsApp-Image-2022-09-04-at-11 31 19-PM](https://github.com/RanitManik/DSAwithRanit/assets/138437760/729510b5-16c7-446d-9aa3-33402e385303)
 
 ---
 
-## About The Project
+## About The Repository
 
-Welcome to DSA with Ranit, where we delve into the world of Data Structures and Algorithms using Java! This repository is a comprehensive collection of Java code implementations, projects, and assignments covering a wide range of DSA topics.
+Welcome to DSA-Bootcamp-Java, where we delve into the world of Data Structures and Algorithms using Java! This repository is a comprehensive collection of Java code implementations, projects, and assignments covering a wide range of DSA topics completed during the [DSA-Bootcamp-Java cource](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=gh8cviNOehm7eT8R) by Kunal Kushwaha.
 
 ---
 
@@ -41,6 +40,7 @@ Welcome to DSA with Ranit, where we delve into the world of Data Structures and 
 - Advanced Concepts
 
 ---
+
 ## Getting Started
 
 _To start your journey in DSA with Ranit, follow these steps:_
@@ -48,13 +48,13 @@ _To start your journey in DSA with Ranit, follow these steps:_
  - **Clone** the repository:
 
    ```bash
-   git clone https://github.com/RanitManik/DSAwithRanit.git
+   git clone https://github.com/RanitManik/DSA-Bootcamp-Java.git
    ```
 
 - **Add This repo as Remote**:
 
    ```bash
-   git remote add origin https://github.com/RanitManik/DSAwithRanit.git
+   git remote add origin https://github.com/RanitManik/DSA-Bootcamp-Java.git
    ```
 
 - **Create and Switch to Your Branch**:
@@ -95,7 +95,7 @@ _To start your journey in DSA with Ranit, follow these steps:_
 
 - Email - ranitmanikofficial@outlook.com
 
-- Project Link - [https://github.com/RanitManik/DSAwithRanit.git](https://github.com/RanitManik/DSAwithRanit.git)
+- Project Link - [https://github.com/RanitManik/DSA-Bootcamp-Java.git](https://github.com/RanitManik/DSA-Bootcamp-Java.git)
 
 ---
 
@@ -105,5 +105,3 @@ I extend my gratitude to the DSA community and the wealth of resources that have
 </br>Thank you for embarking on this journey in DSA with Ranit. Together, we can master Data Structures and Algorithms using Java!
 
 ---
->Feel free to clone this repository and use it as a template for your own "DSAwithRanit" journey. Happy coding! 💻🧑‍💻
-
