@@ -1,6 +1,8 @@
 # Understanding Math Functions
 
 ```java
+// Q5. Calculate Distance Between Two Points
+
 package A03_conditionals_loops.assignments.Intermediate;
 
 import java.util.Scanner;
@@ -26,7 +28,6 @@ public class Program_05 {
         System.out.printf("The distance between the two points is: %.2f", distance);
     }
 }
-
 ```
 
 In this above Java program, there are several Math functions being used. Let me explain each of them:
