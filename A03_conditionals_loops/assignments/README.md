@@ -36,11 +36,11 @@
 
 ### Intermediate Java Programs
 
-1. Factorial Program In Java
-2. Calculate Electricity Bill
-3. Calculate Average Of N Numbers
-4. Calculate Discount Of Product
-5. Calculate Distance Between Two Points
+1. Factorial Program In Java ✅
+2. Calculate Electricity Bill ✅
+3. Calculate Average Of N Numbers ✅
+4. Calculate Discount Of Product ✅
+5. Calculate Distance Between Two Points ✅
 6. Calculate Commission Percentage
 7. Power In Java
 8. Calculate Depreciation of Value
