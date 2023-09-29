@@ -66,13 +66,13 @@ public class ReverseString {
 
 10. **Method for Reversing a String** (`reverseString`):
 
-- This method takes a string (`str`) as input and returns the reversed version of the string.
-
-- It uses a `StringBuilder` to efficiently build the reversed string.
-
-- It iterates through the characters of the input string in reverse order and appends them to the `StringBuilder`.
-
-- Finally, it converts the `StringBuilder` to a string using `toString()` and returns the result.
+    - This method takes a string (`str`) as input and returns the reversed version of the string.
+    
+    - It uses a `StringBuilder` to efficiently build the reversed string.
+    
+    - It iterates through the characters of the input string in reverse order and appends them to the `StringBuilder`.
+    
+    - Finally, it converts the `StringBuilder` to a string using `toString()` and returns the result.
 
 To run this program, you can copy the code into a Java file (e.g., `ReverseString.java`) and use a Java compiler to
 compile and execute it. When you run the program, it will prompt you to enter a string, and then it will display the
