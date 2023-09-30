@@ -98,3 +98,5 @@ double area_m3=((1.0/2)*(b*h));
 
 This method achieves the same result as Method 1 and Method 2, but it uses double precision directly without any
 explicit type casting. It's a straightforward approach for calculating the area of a triangle.
+
+---

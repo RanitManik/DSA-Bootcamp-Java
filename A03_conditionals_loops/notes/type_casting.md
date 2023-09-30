@@ -23,6 +23,7 @@ In the provided code, there is a Java program that calculates the area of a circ
 
 5. `System.out.println("The Area of the circle is = " + area);`: This line prints the calculated area to the console. `area` is concatenated with the string `"The Area of the circle is = "` and the result is printed.
 
----
 
 In summary, the type casting `(float)` is used to ensure that the division operation yields a floating-point result, which is crucial for accurate calculation of the area of the circle. Without this type casting, the division would be performed as integer division, potentially leading to inaccurate results.
+
+---

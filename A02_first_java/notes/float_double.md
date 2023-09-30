@@ -10,3 +10,5 @@ commonly used for scientific calculations or situations where higher accuracy is
 
 In summary, `float` is less precise but takes up less memory, while `double` provides higher precision at the cost of
 slightly more memory usage. The choice between them depends on the specific requirements of the application.
+
+---

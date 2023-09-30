@@ -1,3 +1,5 @@
+# literals in JAVA
+
 In Java, a literal is a constant value that is used directly in your code. It's a way to represent fixed values in a
 program. For example, `5` is a literal representing the integer value 5, and `3.14` is a literal representing the
 floating-point value 3.14.
