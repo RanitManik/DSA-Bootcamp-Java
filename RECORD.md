@@ -109,3 +109,8 @@
 
 - finished 1/2 of DSA-Bootcamp-java [Binary Search in 2D Arrays](https://youtu.be/enI_KyGLYPo?si=KYyIDjAxYGyaAHbw) by
   Kunal kushwa ✅
+  
+## Day 22: October 12, 2023
+
+- finished 2/2 of DSA-Bootcamp-java [Binary Search in 2D Arrays](https://youtu.be/enI_KyGLYPo?si=KYyIDjAxYGyaAHbw) by
+  Kunal kushwa ✅
