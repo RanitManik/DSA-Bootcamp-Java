@@ -37,11 +37,11 @@
     - Memory management ✅
     - Input and Output ✅
     - ArrayList Introduction ✅
-- Searching
+- Searching ✅
     - Linear Search ✅
     - Binary Search ✅
     - Modified Binary Search ✅
-    - Binary Search on 2D Arrays
+    - Binary Search on 2D Arrays ✅
 - Sorting
     - Insertion Sort
     - Selection Sort
