@@ -83,15 +83,23 @@ _To start your journey in DSA with Ranit, follow these steps:_
 
 # Contact
 
-- Name - [Ranit Manik](https://github.com/RanitManik)
+If you have any questions, suggestions, or just want to connect, feel free to reach out to me:
 
-- Email - ranitmanikofficial@outlook.com
-
-- Project Link - [https://github.com/RanitManik/DSA-Bootcamp-Java.git](https://github.com/RanitManik/DSA-Bootcamp-Java.git)
+- [Email](mailto:ranitmanik.dev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ranit-manik/)
+- [GitHub](https://github.com/RanitManik)
+- [Instagram](https://www.instagram.com/ranit_manik_/)
+- [Facebook](https://www.facebook.com/RanitKumarManik/)
+- [Twitter](https://twitter.com/RANIT_MANIK)
+- [Codepen](https://codepen.io/RANIT-MANIK)
+- [replit](https://replit.com/@ranit-manik)
 
 
 # Acknowledgments
 
 I extend my gratitude to the DSA community and the wealth of resources that have contributed to my proficiency in Data Structures and Algorithms.</br>
 </br>Thank you for embarking on this journey in DSA with Ranit. Together, we can master Data Structures and Algorithms using Java!
+
+Happy coding!
+
 
