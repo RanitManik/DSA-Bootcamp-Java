@@ -14,9 +14,9 @@ Bootcamp by Kunal Kushwaha.
 
 - [Topics](#topics)
 - [Getting Started](#getting-started)
-- [Contact](#contact)
 - [Resources](#resources)
 - [My mission](#my-mission-is-to)
+- [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 
 ## Topics
