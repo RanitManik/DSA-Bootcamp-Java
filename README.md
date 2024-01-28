@@ -14,40 +14,41 @@ Welcome to DSA-Bootcamp-Java, where we delve into the world of Data Structures a
 - [Getting Started](#getting-started)
 - [Contact](#contact)
 - [Resources](#resources)
+- [My mission](#my-mission-is-to)
 - [Acknowledgments](#acknowledgments)
+
 
 ## Topics
 
-| #  | Topic                                   | Brief Description                                    | Status    |
-|----|-----------------------------------------|-------------------------------------------------------|-----------|
-| 0  | Introduction                            | Overview of the DSA Bootcamp Java and its objectives. | Completed |
-| 1  | Git & GitHub                            | Understanding version control and collaborative coding.| Completed |
-| 2  | Introduction to Programming             | Basic concepts of programming and problem-solving.    | Completed |
-| 3  | Flow of the Program                      | Understanding the execution flow of a program.        | Completed |
-| 4  | Introduction to Java                    | Basics of Java programming language.                  | Completed |
-| 5  | Functions                               | Introduction to functions and their usage in Java.    | Completed |
-| 6  | Arrays                                  | Working with arrays in Java.                          | Completed |
-| 7  | Searching                               | Techniques and algorithms for searching in Java.      | Completed |
-| 8  | Sorting                                 | Techniques and algorithms for sorting in Java.        | Completed |
-| 9  | Pattern Questions                        | Solving problems related to patterns.                 | In Progress|
-| 10 | Strings                                 | Manipulating and working with strings in Java.        | Not Started|
-| 11 | Maths for DSA                            | Mathematical concepts relevant to DSA.               | Not Started|
-| 12 | Recursion                               | Understanding and implementing recursion in Java.    | Not Started|
-| 13 | Space and Time Complexity Analysis       | Analyzing the efficiency of algorithms.               | Not Started|
-| 14 | Object-Oriented Programming              | Principles of OOP in Java.                            | Not Started|
-| 15 | Linked List                             | Implementing and working with linked lists.          | Not Started|
-| 16 | Stacks & Queues                         | Using stacks and queues in Java.                      | Not Started|
-| 17 | Trees                                   | Understanding tree data structures in Java.          | Not Started|
-| 18 | Heaps                                   | Implementation and applications of heaps.            | Not Started|
-| 19 | HashMap                                 | Working with hash maps in Java.                       | Not Started|
-| 20 | Subarray Questions                      | Solving problems related to subarrays.                | Not Started|
-| 21 | Graphs                                  | Graph data structures and algorithms in Java.        | Not Started|
-| 22 | Dynamic Programming                     | Dynamic programming concepts and solutions.          | Not Started|
-| 23 | Greedy Algorithms                       | Strategies and algorithms for greedy problems.       | Not Started|
-| 24 | Tries                                   | Implementing trie data structures in Java.           | Not Started|
-| 25 | Advanced Concepts                       | Exploring advanced DSA concepts in Java.             | Not Started|
-| 26 | Projects and Ending                     | Culmination with practical projects and course conclusion.| Not Started|
-
+| #   | Topic                              | Brief Description                                          | Status      |
+| --- | ---------------------------------- | ---------------------------------------------------------- | ----------- |
+| 0   | Introduction                       | Overview of DSA-Bootcamp-Java and its objectives.          | Completed   |
+| 1   | Git & GitHub                       | Understanding version control system                       | Completed   |
+| 2   | Introduction to Programming        | Basic concepts of programming and problem-solving.         | Completed   |
+| 3   | Flow of the Program                | Understanding the execution flow of a program.             | Completed   |
+| 4   | Introduction to Java               | Basics of Java programming language.                       | Completed   |
+| 5   | Functions                          | Introduction to functions and their usage in Java.         | Completed   |
+| 6   | Arrays                             | Working with arrays in Java.                               | Completed   |
+| 7   | Searching                          | Techniques and algorithms for searching in Java.           | Completed   |
+| 8   | Sorting                            | Techniques and algorithms for sorting in Java.             | Completed   |
+| 9   | Pattern Questions                  | Solving problems related to patterns.                      | In Progress |
+| 10  | Strings                            | Manipulating and working with strings in Java.             | Not Started |
+| 11  | Maths for DSA                      | Mathematical concepts relevant to DSA.                     | Not Started |
+| 12  | Recursion                          | Understanding and implementing recursion in Java.          | Not Started |
+| 13  | Space and Time Complexity Analysis | Analyzing the efficiency of algorithms.                    | Not Started |
+| 14  | Object-Oriented Programming        | Principles of OOP in Java.                                 | Not Started |
+| 15  | Linked List                        | Implementing and working with linked lists.                | Not Started |
+| 16  | Stacks & Queues                    | Using stacks and queues in Java.                           | Not Started |
+| 17  | Trees                              | Understanding tree data structures in Java.                | Not Started |
+| 18  | Heaps                              | Implementation and applications of heaps.                  | Not Started |
+| 19  | HashMap                            | Working with hash maps in Java.                            | Not Started |
+| 20  | Subarray Questions                 | Solving problems related to subarrays.                     | Not Started |
+| 21  | Graphs                             | Graph data structures and algorithms in Java.              | Not Started |
+| 22  | Dynamic Programming                | Dynamic programming concepts and solutions.                | Not Started |
+| 23  | Greedy Algorithms                  | Strategies and algorithms for greedy problems.             | Not Started |
+| 24  | Tries                              | Implementing trie data structures in Java.                 | Not Started |
+| 25  | Advanced Concepts                  | Exploring advanced DSA concepts in Java.                   | Not Started |
+| 26  | Projects and Ending                | Culmination with practical projects and course conclusion. | Not Started |
 
 
 ## Getting Started
@@ -98,14 +99,11 @@ _To start your journey in DSA with Ranit, follow these steps:_
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me:
 
-- [Email](mailto:ranitmanik.dev@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/ranit-manik/)
-- [GitHub](https://github.com/RanitManik)
-- [Instagram](https://www.instagram.com/ranit_manik_/)
-- [Facebook](https://www.facebook.com/RanitKumarManik/)
-- [Twitter](https://twitter.com/RANIT_MANIK)
-- [Codepen](https://codepen.io/RANIT-MANIK)
-- [replit](https://replit.com/@ranit-manik)
+- [<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" height="20" /> Email](mailto:ranitmanik.dev@gmail.com)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" height="20" /> LinkedIn](https://www.linkedin.com/in/ranit-manik/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" height="20" /> Instagram](https://www.instagram.com/ranit_manik_/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" height="20" /> Facebook](https://www.facebook.com/RanitKumarManik/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" height="20" /> Twitter](https://twitter.com/RANIT_MANIK)
 
 
 ## Acknowledgments
