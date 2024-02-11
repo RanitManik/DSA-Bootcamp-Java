@@ -1,3 +1,5 @@
+package A05_arrays.assignments;
+
 public class Program_27 {
 
     public int removeDuplicates(int[] nums) {

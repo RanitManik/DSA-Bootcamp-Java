@@ -1,3 +1,5 @@
+package A05_arrays.assignments;
+
 public class Program_26 {
     public int[] plusOne(int[] digits) {
 

@@ -1,3 +1,5 @@
+package A05_arrays.assignments;
+
 public class Program_25 {
     public int[][] matrixReshape(int[][] mat, int r, int c) {
         int m = mat.length;
