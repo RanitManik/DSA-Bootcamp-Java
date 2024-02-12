@@ -1,6 +1,6 @@
 // Q2. Take a name as input and print a greeting message for that particular name.
 
-package A02_first_java.assignments;
+package A01_first_java.assignments;
 
 import java.util.Scanner;
 

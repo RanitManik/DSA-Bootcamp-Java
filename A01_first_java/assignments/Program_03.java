@@ -1,6 +1,6 @@
 // Q3. Write a program to input principal, time, and rate (P, T, R) from the user and find Simple Interest.
 
-package A02_first_java.assignments;
+package A01_first_java.assignments;
 
 import java.util.Scanner;
 

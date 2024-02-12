@@ -1,4 +1,4 @@
-package A02_first_java.src;
+package A01_first_java.src;
 
 public class Comment {
 //    This is a single line comment in JAVA

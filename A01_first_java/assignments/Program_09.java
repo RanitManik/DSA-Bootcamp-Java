@@ -1,6 +1,6 @@
 // Q9. To find Armstrong Number between two given number.
 
-package A02_first_java.assignments;
+package A01_first_java.assignments;
 
 import java.util.Scanner;
 

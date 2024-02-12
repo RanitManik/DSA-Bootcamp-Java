@@ -1,6 +1,6 @@
 // Q8. To find out whether the given String is Palindrome or not.
 
-package A02_first_java.assignments;
+package A01_first_java.assignments;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 // Q5. Take 2 numbers as input and print the largest number.
 
-package A02_first_java.assignments;
+package A01_first_java.assignments;
 
 import java.util.Scanner;
 

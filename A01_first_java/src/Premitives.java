@@ -1,4 +1,4 @@
-package A02_first_java.src;
+package A01_first_java.src;
 
 public class Premitives {
     public static void main(String[] args) {

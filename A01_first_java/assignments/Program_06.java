@@ -1,6 +1,6 @@
 // Q6. Input currency in rupees and output in USD.
 
-package A02_first_java.assignments;
+package A01_first_java.assignments;
 
 import java.util.Scanner;
 

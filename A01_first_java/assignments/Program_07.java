@@ -1,6 +1,6 @@
 // Q7. To calculate Fibonacci Series up to n numbers.
 
-package A02_first_java.assignments;
+package A01_first_java.assignments;
 
 import java.util.Scanner;
 
