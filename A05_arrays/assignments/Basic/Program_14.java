@@ -1,4 +1,4 @@
-package A05_arrays.assignments;
+package A05_arrays.assignments.Basic;
 
 public class Program_14 {
     public int oddCells(int m, int n, int[][] indices) {

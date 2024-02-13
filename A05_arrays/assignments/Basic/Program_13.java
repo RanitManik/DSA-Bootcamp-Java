@@ -1,4 +1,4 @@
-package A05_arrays.assignments;
+package A05_arrays.assignments.Basic;
 
 public class Program_13 {
     public int[][] flipAndInvertImage(int[][] image) {

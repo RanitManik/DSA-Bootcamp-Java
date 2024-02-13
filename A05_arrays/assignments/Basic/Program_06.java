@@ -1,4 +1,4 @@
-package A05_arrays.assignments;
+package A05_arrays.assignments.Basic;
 
 import java.util.ArrayList;
 
