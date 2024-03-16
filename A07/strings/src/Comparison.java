@@ -7,7 +7,7 @@ public class Comparison {
 
         System.out.println(a == b); // '==' comparator checks if both the reference variables are pointing to the same string object
 
-        System.out.println(a.equals(b)); // '==' comparator checks only the values of tww strings it does not check if both the reference variables are pointing to the same string object
+        System.out.println(a.equals(b)); // '.equals()' method checks only the values of tww strings it does not check if both the reference variables are pointing to the same string object
 
         String c = new String("RANIT"); // 'new' keyword is used to create a new object rather than the existing one ==> so in this case it will create another string object in heap "RANIT"
 

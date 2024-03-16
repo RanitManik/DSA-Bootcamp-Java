@@ -18,6 +18,7 @@ public class Output {
         System.out.println(num.toString()); // Internally printing an integer datatype is working like that ==> converting to String through some wrapper class and then printing the string in the console
 
         int num2 = 50; // This will be accessible only from stack
-        // System.out.println(num2.toString); // This will through error as the integer is not accessible from heap and not an object, so we cannot use methods on it
+        // System.out.println(num2.toString);
+        // This will through error as the integer is not accessible from heap and not an object, so we cannot use methods on it
     }
 }
