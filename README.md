@@ -10,37 +10,46 @@ of DSA topics completed during
 the [DSA-Bootcamp-Java](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=gh8cviNOehm7eT8R)
 Bootcamp by Kunal Kushwaha.
 
+## Table of Contents
+
+- [Topics](#topics)
+- [Getting Started](#getting-started)
+- [Resources](#resources)
+- [My mission](#my-mission-is-to)
+- [Contact](#contact)
+- [Acknowledgments](#acknowledgments)
+
 ## Topics
 
-| #  | Topic                              | Brief Description                                          | Status      |
-|----|------------------------------------|------------------------------------------------------------|-------------|
-| 0  | Introduction                       | Overview of DSA-Bootcamp-Java and its objectives.          | Completed   |
-| 1  | Git & GitHub                       | Understanding version control system.                      | Completed   |
-| 2  | Introduction to Programming        | Basic concepts of programming and problem-solving.         | Completed   |
-| 3  | Flow of the Program                | Understanding the execution flow of a program.             | Completed   |
-| 4  | Introduction to Java               | Basics of Java programming language.                       | Completed   |
-| 5  | Functions                          | Introduction to functions and their usage in Java.         | Completed   |
-| 6  | Arrays                             | Working with arrays in Java.                               | Completed   |
-| 7  | Searching                          | Techniques and algorithms for searching in Java.           | Completed   |
-| 8  | Sorting                            | Techniques and algorithms for sorting in Java.             | Completed   |
-| 9  | Pattern Questions                  | Solving problems related to patterns.                      | In Progress |
-| 10 | Strings                            | Manipulating and working with strings in Java.             | Not Started |
-| 11 | Maths for DSA                      | Mathematical concepts relevant to DSA.                     | Not Started |
-| 12 | Recursion                          | Understanding and implementing recursion in Java.          | Not Started |
-| 13 | Space and Time Complexity Analysis | Analyzing the efficiency of algorithms.                    | Not Started |
-| 14 | Object-Oriented Programming        | Principles of OOP in Java.                                 | Not Started |
-| 15 | Linked List                        | Implementing and working with linked lists.                | Not Started |
-| 16 | Stacks & Queues                    | Using stacks and queues in Java.                           | Not Started |
-| 17 | Trees                              | Understanding tree data structures in Java.                | Not Started |
-| 18 | Heaps                              | Implementation and applications of heaps.                  | Not Started |
-| 19 | HashMap                            | Working with hash maps in Java.                            | Not Started |
-| 20 | Subarray Questions                 | Solving problems related to subarrays.                     | Not Started |
-| 21 | Graphs                             | Graph data structures and algorithms in Java.              | Not Started |
-| 22 | Dynamic Programming                | Dynamic programming concepts and solutions.                | Not Started |
-| 23 | Greedy Algorithms                  | Strategies and algorithms for greedy problems.             | Not Started |
-| 24 | Tries                              | Implementing trie data structures in Java.                 | Not Started |
-| 25 | Advanced Concepts                  | Exploring advanced DSA concepts in Java.                   | Not Started |
-| 26 | Projects and Ending                | Culmination with practical projects and course conclusion. | Not Started |
+| #  | Topic                              | Status      |
+|----|------------------------------------|-------------|
+| 00 | Introduction                       | Completed   |
+| 01 | Git & GitHub                       | Completed   |
+| 02 | Introduction to Programming        | Completed   |
+| 03 | Flow of the Program                | Completed   |
+| 04 | Introduction to Java               | Completed   |
+| 05 | Functions                          | Completed   |
+| 06 | Arrays                             | Completed   |
+| 07 | Searching                          | Completed   |
+| 08 | Sorting                            | Completed   |
+| 09 | Pattern Questions                  | Completed   |
+| 10 | Strings                            | Completed   |
+| 11 | Maths for DSA                      | Not Started |
+| 12 | Recursion                          | Not Started |
+| 13 | Space and Time Complexity Analysis | Not Started |
+| 14 | Object-Oriented Programming        | Not Started |
+| 15 | Linked List                        | Not Started |
+| 16 | Stacks & Queues                    | Not Started |
+| 17 | Trees                              | Not Started |
+| 18 | Heaps                              | Not Started |
+| 19 | HashMap                            | Not Started |
+| 20 | Subarray Questions                 | Not Started |
+| 21 | Graphs                             | Not Started |
+| 22 | Dynamic Programming                | Not Started |
+| 23 | Greedy Algorithms                  | Not Started |
+| 24 | Tries                              | Not Started |
+| 25 | Advanced Concepts                  | Not Started |
+| 26 | Projects and Ending                | Not Started |
 
 ## Getting Started
 
