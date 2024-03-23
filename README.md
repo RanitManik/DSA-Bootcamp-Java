@@ -10,15 +10,6 @@ of DSA topics completed during
 the [DSA-Bootcamp-Java](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=gh8cviNOehm7eT8R)
 Bootcamp by Kunal Kushwaha.
 
-## Table of Contents
-
-- [Topics](#topics)
-- [Getting Started](#getting-started)
-- [Resources](#resources)
-- [My mission](#my-mission-is-to)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
-
 ## Topics
 
 | #  | Topic                              | Brief Description                                          | Status      |
