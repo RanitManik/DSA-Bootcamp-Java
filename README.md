@@ -18,7 +18,7 @@
 | 11 | Maths for DSA                      | Not Started |
 | 12 | Recursion                          | Not Started |
 | 13 | Space and Time Complexity Analysis | Not Started |
-| 14 | Object-Oriented Programming        | Not Started |
+| 14 | Object-Oriented Programming        | Completed   |
 | 15 | Linked List                        | Not Started |
 | 16 | Stacks & Queues                    | Not Started |
 | 17 | Trees                              | Not Started |
