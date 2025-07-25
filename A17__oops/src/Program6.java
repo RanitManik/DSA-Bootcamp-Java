@@ -1,4 +1,4 @@
-package A14__oops.src;// Write a Java program to read two matrices from the keyboard and find the sum of the matrices.
+package A17__oops.src;// Write a Java program to read two matrices from the keyboard and find the sum of the matrices.
 
 import java.util.Scanner;
 
